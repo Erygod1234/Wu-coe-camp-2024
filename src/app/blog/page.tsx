@@ -2,6 +2,9 @@
 
 export default function Blog() {
     return (
+
+      
+
     <div className="flex justify-center ">
         <div className="m-6 h-[300px] w-[700px]  box-border rounded-lg bg-slate-400 ">
             <div className="flex pt-5 pl-5">
